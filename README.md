@@ -26,7 +26,7 @@ Este projeto é uma aplicação de linha de comando (CLI) desenvolvida com o fra
    ```
   - Adicione sua chave de API do OpenWeatherMap:
      ```env
-     OPENWEATHER_API_KEY=YOUR_API_KEY_HERE
+     OPENWEATHER_API_KEY=SUA_CHAVE_DA_API_AQUI
      ```
 
 ## Uso
