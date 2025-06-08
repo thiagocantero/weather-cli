@@ -20,17 +20,11 @@ Este projeto é uma aplicação de linha de comando (CLI) desenvolvida com o fra
    cd weather-cli
    ```
 
-3. Instale as dependências:
+3. Crie o arquivo .env
    ```bash
-   composer install
+   touch .env
    ```
-
-4. Configure o arquivo `.env`:
-   - Copie o exemplo de `.env`:
-     ```bash
-     cp .env.example .env
-     ```
-   - Adicione sua chave de API do OpenWeatherMap:
+  - Adicione sua chave de API do OpenWeatherMap:
      ```env
      OPENWEATHER_API_KEY=YOUR_API_KEY_HERE
      ```
